@@ -17,6 +17,6 @@ This will open up in your browser where you can select the option(s) to run on a
 
 In the server directory, you can run:
 
-### `node server.js`
+### `node index.js`
 
 Runs the server in development mode.
